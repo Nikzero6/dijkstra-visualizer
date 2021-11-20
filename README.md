@@ -1,5 +1,5 @@
 # Try this yourself.
-### [Path Finding Visualizer](https://Nikzero6/dijkstra-visualizer)
+### [Path Finding Visualizer](https://Nikzero6.github.io/dijkstra-visualizer)
 
 # Getting Started with Create React App
 
