@@ -4,7 +4,7 @@
 - Implemented the back-end code using JavaScript and frontend bootstrapped with ReactJS.
 
 ## Run on local machine
-- Download or copy yhe repo
+- Download or copy the repo
 - cd into the project directory in terminal
 - Run: npm i (for getting all dependencies)
 - Run: npm start
