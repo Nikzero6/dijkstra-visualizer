@@ -1,6 +1,6 @@
 {
   "name": "visualpath",
-  "homepage": "https://Nikzero6.github.io/dijkstra-visualizer",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
